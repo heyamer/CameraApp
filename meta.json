@@ -35,14 +35,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSPhotoLibraryUsageDescription",
-                                "label": "Photos",
-                                "hint": "Describe why your app uses photos."
-                            },
-                            {
                                 "name": "NSCameraUsageDescription",
                                 "label": "Camera",
                                 "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
                             }
                         ]
                     }
@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Amer's camera App",
+            "projectName": "Amer's camera Copy",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +115,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +164,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -189,7 +189,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "3",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
