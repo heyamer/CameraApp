@@ -57,6 +57,39 @@
     },
     "children": [
         {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": true,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 32,
+                "Y": 207,
+                "RelativeX": 32,
+                "RelativeY": 207,
+                "ResizeMode": "STRETCH",
+                "ParentId": "72daef2e-d1e5-4429-8578-660f0725b0c8",
+                "position": "absolute",
+                "edgeOffsets": 207,
+                "style": {
+                    "position": "absolute",
+                    "left": "36.93333333333333%",
+                    "top": "90.25487256371814%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "c5f6bc57-939d-4ada-ab8f-5265c5290002",
+            "thunkableVersion": 421,
+            "name": "picture confirmation "
+        },
+        {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
@@ -69,10 +102,10 @@
                 "Height": 36,
                 "Width": 187,
                 "Visible": true,
-                "X": 133,
-                "Y": 610,
-                "RelativeX": 133,
-                "RelativeY": 610,
+                "X": 124,
+                "Y": 601,
+                "RelativeX": 124,
+                "RelativeY": 601,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -113,7 +146,7 @@
                 },
                 "ParentId": "72daef2e-d1e5-4429-8578-660f0725b0c8",
                 "position": "absolute",
-                "edgeOffsets": 610,
+                "edgeOffsets": 601,
                 "children": "Amer\u2019s Camera App"
             },
             "children": [],
